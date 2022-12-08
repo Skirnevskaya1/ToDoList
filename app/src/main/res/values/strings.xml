@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string-array name="tasks">
+        <item>Сходить в продуктовый магазин</item>
+        <item>Стирка</item>
+        <item>Влажная уборка</item>
+        <item>Приготовить ужин</item>
+        <item>Купить подарок для Люси</item>
+        <item>Покормить кота</item>
+        <item>Написать ToDo List на Котлин</item>
+        <item>Прочесть 50 стр. книги</item>
+        <item>Узнать что-то новое</item>
+        <item>Позвонить маме</item>
+        <item>Заехать на заправку</item>
+        <item>Посмотреть фильм</item>
+        <item>Прогулка</item>
+        <item>Сходить в спортивный зал</item>
+        <item>Сходить в бассейн</item>
+        <item>Купить билет</item>
+        <item>Отправить факс</item>
+        <item>Ответить на сообщение</item>
+        <item>Провести встречу</item>
+        <item>Послушать музыку</item>
+        <item>Увидеться с подругой</item>
+        <item>Перезвонить</item>
+    </string-array>
+</resources>
